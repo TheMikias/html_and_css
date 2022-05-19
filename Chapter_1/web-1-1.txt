@@ -1,0 +1,33 @@
+1.1 Introduction note
+* The Web is a collection of documents, called web pages.
+* the web page’s text, pictures, text boxes, and buttons. Also note the web page’s address 
+shown in the figure’s address bar.
+* The web page address is the location where the web page resides on the Internet.
+       what is it?
+   It’s a collection of several billion computers connected throughout the world. 
+Each web page is stored on one of those computers.
+     Creating a Website
+A website is a group of web pages under a website name that is available publicly on the internet.and website 
+is a collection of related web pages that are normally stored on a single web server computer.
+A web server is a computer system that enables users to access web pages stored on the web server’s computer.
+         To create a website, you’ll need these 4 things
+The first ones is a text editor:Text editors are the programs which allow editing in a written text
+Examples of text editor 1 Microsoft’s Notepad
+                         2 vs code
+                          3 atom
+2 an upload/publishing tool: After you enter your web page text on your local computer with your favorite IDE,
+ you’ll probably want to publish it.
+ Some IDEs, like Dreamweaver, provide built-in uploading capabilities, but other IDEs, 
+ like Visual Studio, do not. There are lots of file upload tools.
+
+3 a web hosting service:Web hosting is a service that allows organizations and individuals to post a website
+ or web page onto the Internet. For a file upload tool such as WinSCP to work, you need to have a web server 
+ computer on which to store the uploaded files.
+The web developer usually doesn’t have to worry about the web hosting service software. If the web developer
+ is part of a medium- to large-sized organization, then the organization’s information technology (IT)
+
+4 browser: The web developer usually doesn’t have to worry about the web hosting service software. 
+If the web developer is part of a medium- to large-sized organization, then the organization’s information 
+technology (IT)
+Examples of browser Google Chrome
+                    Microsoft’s browsers (Microsoft Edge and Internet Explorer), and Mozilla2 Firefox,
