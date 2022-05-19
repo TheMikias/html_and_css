@@ -1,0 +1,6 @@
+
+   1-6 title Element
+The title property sets or returns the value of an element's title attribute.
+The head element contains two types of elements—meta and title. In your web pages, you
+should position them in the order shown in Figure 1.6, meta and then title. But in the interest of clarity, 
+we’ll discuss the title element first.

@@ -1,0 +1,14 @@
+
+   1-5 Structural Elements
+HTML source code that was used to generate the Kansas City Weather web page shown earlier There’s source code, 
+which the programmer enters, and there’s executable code, which is low-level code that the computer hardware understands 
+and executes (runs).
+The html, head, and body elements form the basic structure of a web page, so we’ll refer to those elements as structural elements.
+Executable code is generated from the source code with the help of something called a compiler. 
+The HTML element is everything from the start tag to the end tag:
+The <html> element is the root element and it defines the whole HTML document.
+The <body> element defines the document's body.
+It has a start tag <body> and an end tag </body>
+The <p> element defines a paragraph.
+It has a start tag <p> and an end tag </p>:
+   

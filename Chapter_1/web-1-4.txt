@@ -1,0 +1,15 @@
+note week 1 day 2
+  1.4 html tag
+To implement an element for a web page, you’ll need to use tags. For example, if you want to implement a strong element 
+(in order to put emphasis on the element’s content and display using boldface), surround the content with <strong> tags.
+ Here’s how to implement a strong element for the word “very”:
+ Caiden was <strong>very</strong> happy when her tooth finally came out.
+   HTML <h1> to <h6> Tags
+The six different HTML headings:
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+   
