@@ -1,0 +1,30 @@
+ html content model
+  Those were the two types of element.
+1 inline
+2 block
+ - Inline dont start new line contains text ot other line element <span>, <b>, <a> <img>
+ -block starts a new line take up all width <h1> <div>,<p>
+ Html is about giving  to content 
+- seametic elements they give mening to the content.
+    content type
+- meta data defines elements which establish the presentation
+- flow suh as style sheet the flow content catagory defines most elements used in the body of document
+- selection content points to element used to orgnize the page in alogical strutre
+- Phreasing content defines the element related to the text of document 
+- Heading content defines all elements that define headers
+- Embedded external resources such as a viedo and interactive content is element
+- Interactive design for interaction again the plan link
+ working with semantic elements
+
+ <div>
+ - used for separating page in different blocks
+ - superseded by sematic elements
+  Sectioning semantic elements
+ <article> contain standalone content an ariticle relly this could a blog 
+<section> , <nav >  <aside>
+ flow content elemnts
+<header> is a container for adding a header to content or navigation links
+<footer> document typically wil contain things such as the cope right or information
+<main> element defines the main content for the element
+<address> tag is used to contain contact informaton such as the author of document or the
+physical location of the store 

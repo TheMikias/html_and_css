@@ -1,0 +1,7 @@
+3.[after Section 1.2] Explain all the parts of a URL. For example, 
+in https://mars.jpl.nasa.gov /msl/images/PIA16082_Mitrofanov1F-thm.jpg, what is each of the following?
+https HTTPS is a secure way to send data between a web server and a web browser.
+mars  the name of website
+jpl.nasa.gov 
+msl/images location of image
+PIA16082_Mitrofanov1F-thm.jpg

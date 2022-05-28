@@ -1,0 +1,12 @@
+1.14 How to Check Your HTML Code
+creating or modifying a web page, you should check your
+work by running the W3C’s HTML validation service, which is formally known as the Markup Validation Service.
+With the first tab, Validate by URI, the user enters a web address for the page that is to be checked. 
+server. With the second option, Validate by File Upload, the user selects a file on his or her local computer. 
+With the third option, Validate by Direct Input, the user copies HTML code directly into a large text box.
+Usually, you’ll use the second option, Validate by File Upload, because it’s a good idea to test a file stored locally before uploading it. 
+If you upload before testing, you run the risk of having people see your buggy web page.For that to work, you need the web page to be uploaded to a web
+That text is a modified version of the code in the original Kansas City Weather page. Save the copied code as a file with the name weatherCheck .html. 
+Go to the W3C’s HTML validation service website and select the Validate by File Upload option. That should generate a Choose File button or a Browse button 
+(different for different browsers). Click the button, navigate to your newly saved weatherCheck.html file, and select
+6 A web page that’s “buggy” has bugs in it, where a bug is an error in a computer program.

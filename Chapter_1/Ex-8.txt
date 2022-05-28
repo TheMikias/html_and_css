@@ -1,0 +1,10 @@
+8.[after Section 1.9] What is the difference between a p element and a div element?
+<p> = paragraph
+semantic element because it's used for paragraphs
+contains paragraph content
+Is a block element
+<div> = divison
+not semantic elemeny because it does not divide
+<div> tag defines a division or a section in an HTML document.
+The <div> tag is used as a container for HTML elements 
+ 

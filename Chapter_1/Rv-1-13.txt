@@ -1,0 +1,3 @@
+1.13 Differences Between Old HTML and HTML5
+15.   The HTML5 standard requires every attribute to have a quoted value. True or false.
+true

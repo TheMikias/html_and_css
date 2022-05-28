@@ -1,0 +1,22 @@
+ 1.13 Differences Between Old HTML and HTML5
+The following differences address the issue of existing web pages that don’t match XHTML
+1.0’s strict syntax. More specifically, the following differences show how HTML5 has loosened up some of its syntax rules as compared to XHTML 1.0:
+▸▸ With HTML5, there’s no longer a requirement to have a quoted value for every attribute. So for some HTML5 attributes, it’s legal to include an 
+attribute by itself, without an equals sign or value attached to it. However, standard coding conventions suggest always including the quotation marks.
+▸▸ With HTML5, there’s no longer a requirement to have a / for all void elements. For example, the XHTML specification requires writing the br void 
+element with a slash,<br/>. The HTML5 specification says you can include or omit the slash. Standard coding conventions suggest always omitting the /.
+▸▸ With HTML5, there’s no longer a requirement to have an end tag for every container. The XHTML specification requires including a </p> 
+end tag for every p container element. The HTML5 specification says you can include or omit the end tag. Standard
+coding conventions suggest always including the end tag.
+Old versions of HTML (including XHTML 1.0) include some elements that are deemed outdated. In particular, elements whose purpose is to 
+provide formatting are deemed outdated. This is because formatting is supposed to be taken care of by CSS, not HTML elements. 
+To clean things up, such outdated elements are not a part of the HTML5 standard. For example, the <font> 
+The HTML5 standard includes quite a few new constructs. The following list shows just some
+of them:
+▸▸ Structural organization elements—Two examples are the header and footer elements.
+▸▸ Audio and video—The audio and video elements allow users to play music and video files directly from their browsers without the need of
+ a plug-in.
+ ▸▸ Canvas—The canvas element provides a drawing area and a set of commands that a web programmer can use to draw two-dimensional shapes and 
+ animate them.
+ ▸▸ Drag and drop functionality—The drag and drop constructs provide the ability to drag elements within a web page.
+ 

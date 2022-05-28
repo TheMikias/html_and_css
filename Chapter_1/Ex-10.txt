@@ -1,0 +1,10 @@
+10.   [after Section 1.12] This exercise attempts to get you to explore the W3C’s website. 
+Find something interesting on the W3C site. You can describe the features in paragraph form or in bullet form, but you must use your own words. 
+Which URL(s) did you use to find your information?
+
+W3C is led by Tim Berners-Lee, inventor of the World Wide Web and Director and Dr. Jeffrey Jaffe, W3C CEO. They are supported by a staff of
+ technical experts who help coordinate technology development and manage the operations of the Consortium.
+The W3C Chapters Program, which promotes adoption of W3C recommendations among developers, application builders, and standards setters, 
+and encourage inclusions of stakeholder organizations in the creation of future standards by joining W3C.
+Translations of Web standards and other materials from dedicated volunteers in the W3C community. W3C also has a policy for 
+authorized translations of W3C materials. Authorized W3C Translations can be used for official purposes in languages other than English.

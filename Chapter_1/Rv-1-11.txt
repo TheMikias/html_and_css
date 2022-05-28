@@ -1,0 +1,8 @@
+1.11 History of HTML
+12. Who designed the HTTP protocol? 
+Tim Berners-Lee
+13.   Who founded the W3C? Name one person. 
+ Tim Berners-Lee, 
+14.   Why did users tend to dislike XHTML 1.1?
+The reason, of course, resides in errors in the parsers, not in the DTD files of XHTML 1.1 / XHTML Modularization.
+ At least one parser, AElfred, which is used by the famous saxon XSLT processor, probably the most popular XSLT processor, has a serious bug.

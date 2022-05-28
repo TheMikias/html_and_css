@@ -1,0 +1,8 @@
+1.2 Creating a Website 
+1.   What is a web server? 
+ * A web server is a computer system that enables users to access web pages stored on the web server’s computer.
+2.   Name two features of a web authoring tool. 
+  * Notepad
+  * isual Studio web authoring tool.
+3.   What term is used to describe code that is freely available to view and edit?
+*isual Studio web authoring tool.

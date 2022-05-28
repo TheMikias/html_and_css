@@ -1,0 +1,7 @@
+4.   [after Section 1.4] What is the difference between a container element and a void element?
+The Container element is one of the primary CommonSpot elements, especially for use in templates.
+ Container Elements can hold one or more “child'' elements, including other Containers. ...
+ Because the Container element allows for placement of child elements it is often used to provide the structure of a template
+
+A void element is an element whose content model never allows it to have contents under any circumstances. Void elements can have attributes.
+ The following is a complete list of the void elements in HTML : area , base , br , col , command 

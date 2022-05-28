@@ -1,0 +1,8 @@
+1.9 body Elements: hr, p, br, div
+The hr element is used to render a horizontal line.
+The <hr> element is most often displayed as a horizontal rule that is used to separate content 
+The p element is a container for a group of words that form a paragraph.
+A div element is also a container for a group of words, but it’s more generic, so the words
+don’t have to form sentences in a paragraph. 
+The <div> tag defines a division or a section in an HTML document.
+br element, which is used to render a new line.

@@ -1,0 +1,15 @@
+11.[after Section 1.14] Using the text input mode, enter the following code into W3C’s HTML validation service. 
+What error messages are generated? Hint: There are three error messages, but only two problems with the code. 
+You may provide the three error messages verbatim or explain the two problems.
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<title>test title</title>
+</head> 
+<body>
+<h7>test heading 
+</body> 
+</html>
+Error: Element h7 not allowed as child of element body in this context. (Suppressing further errors from this subtree.)
+Error: End tag for body seen, but there were unclosed elements.
+Error: Unclosed element h7.

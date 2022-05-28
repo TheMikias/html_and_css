@@ -1,0 +1,7 @@
+1.   [after Section 1.2] Search the Internet for a good web hosting service. Describe features of your chosen web hosting service that would make it a
+ good service for your needs (if you don’t have any needs, then make some up). You can describe the features 
+in paragraph form or in bullet form, but you must use your own words. Which URL(s) did you use to find your information?
+This Ethiopian hosting service offers unlimited web hosting packages to the users. 
+All hosting packages come with unlimited disk space and unlimited bandwidth. 
+No matter what is the size of your website, you can easily accommodate unlimited data on this hosting server.
+URL https://yegara.com/

@@ -1,0 +1,6 @@
+2. [after Section 1.2] Use the statCounter web page to determine the most popular browsers for mobile devices. 
+List the top three browsers in descending order (most popular first).
+
+Chrome	67.17%	63.3%
+Safari	9.63%	17.7%
+Edge	9.33%	5.4%

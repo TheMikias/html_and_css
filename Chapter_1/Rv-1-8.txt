@@ -1,0 +1,7 @@
+1.8 HTML Attributes 
+9.   For the meta element, what is the purpose of the name attribute and the content attribute?
+The name attribute specifies the name for the metadata. The name attribute specifies a name for the information/value of the content attribute.
+10.   For the meta charset element, what does the value utf-8 stand for? Specifically, what do “u,” “t,” “f,” and “8” stand for individually?
+The charset attribute specifies the character encoding for the HTML document.
+UTF-8 is a variable-width character encoding used for electronic communication. Defined by the Unicode Standard,
+ the name is derived from Unicode (or Universal Coded Character Set) Transformation Format – 8-bit. 
