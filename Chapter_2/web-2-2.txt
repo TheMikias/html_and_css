@@ -1,0 +1,13 @@
+2.2 HTML Coding Conventions
+  Browsers are very lenient in terms of requiring web developers to write high-quality code.
+If a web page uses improper syntax, different browsers might render the web page differently.
+In a worst-case scenario, the web developer tests the web page on a browser where no errors are evident, mistakenly concludes that all is well, and publishes the web page on the Web.
+ coding-style convention rules pertain to the format of code. For example,
+there are rules about when to use uppercase versus lowercase, when to insert blank lines, and when to indent. Those rules help programmers understand the code more easily, but the browsers don’t care about such things.
+ Companies like their programmers to follow standard coding conventions so the resulting
+programs are easier to maintain (program maintenance means debugging and enhancing a program after it has been released initially). This is particularly true for medium- and large-sized companies, where programs are debugged and enhanced by a larger number of people. With more people involved, there’s a greater need to understand other people’s code, and adhering to standard coding conventions helps with that.
+	A, HTML5 and CSS C ­oding-Style Conventions. For now, it’s OK to remember just the following style rules
+1 For every container element, include both a start tag and an end tag. So even though it’s legal to omit a p element’s end tag, don’t do it.
+2 Use lowercase for all tag names (e.g., meta) and attributes (e.g., name).
+Use lowercase for attribute values unless there’s a reason for uppercase. For a meta author element, use title case for the author’s name because that’s how people’s names are normally spelled (e.g., name="Dan Connolly").
+3  For attribute-value assignments, surround the value with quotes, and omit spaces around the equals sign
