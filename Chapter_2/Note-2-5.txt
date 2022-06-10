@@ -1,0 +1,10 @@
+
+2.5 Content Model Categories
+One or more elements of metadata content, of which exactly one is a title element and no more than one is a base element.2
+So the head container is allowed to include elements that are in the metadata category.
+That generates a list of all the elements in the metadata category—base, link, meta, noscript, script, style, and title.
+   Content Model Category Descriptions
+The metadata category includes elements that provide information associated with the web page as a whole.
+That’s the same description we used for the head container’s contents. So an alternative definition of the metadata category is that it includes all the elements that are allowed in the head container.
+The flow category includes plain text and all the elements that are allowed in a web page body
+container. As you can imagine, there are lots of elements in the flow category. We’ll discuss quite a few of them later in this chapter, but here’s a small sample for now—blockquote, div, hr, p, pre, script, sup. The blockquote, div, hr, p, and pre elements are flow content elements, and they are not in any other content model categories. The script element is for JavaScript. It’s in the flow content category as well as the metadata content category (note the intersection of those two categories in the content model categories diagram). You’ll normally use script in a head container, but it’s legal to use it in a body container as well. The sup element is for superscripting. It’s in the flow content category as well as the phrasing content category (note the intersection of those two categories in the content model categories diagram).
