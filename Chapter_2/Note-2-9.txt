@@ -1,0 +1,4 @@
+
+            2.9 pre Element
+pre element for text that needs to have its whitespace preserved. Formally, pre stands for “preformatted text.”
+blank spaces and newlines. Those are whitespace characters from the source code, and we can thank the pre container for preserving them.

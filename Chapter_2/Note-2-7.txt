@@ -1,0 +1,17 @@
+2.7 blockquote Element
+he div and p elements, which are block elements.
+blockquote element when you have a quotation that is too long to embed within surrounding text.
+Most browsers render a blockquote element by displaying those margins.
+	Typical Default Display Properties
+For each element, the W3C’s HTML5 standard provides a “typical default display properties” section that describes the typical format used by the major browsers in displaying the element. Browsers are not forced to follow those guidelines, but they usually do, and as a developer, you should pay attention to the guidelines.
+For each element, the W3C’s HTML5 standard provides a “typical default display properties” section that describes the typical format used by the major browsers in displaying the element. Browsers are not forced to follow those guidelines, but they usually do, and as a developer, you should pay attention to the guidelines.That means that the element the rule applies to, blockquote in this case, will span the width of its container. Thus, the ­display: block property-value pair matches the characteristics of the block element described earlier.The second and third CSS rules apply to the top and bottom margins. The 1em values cause
+each of the two margins to be the height of one line of text. We’ll discuss the CSS em unit 
+The fourth and fifth CSS rules apply to the left and right margins. The 40px values cause each
+of the two margins to be 40 pixels wide, where 1 pixel is the size of an individually projected dot on a typical computer monitor.
+	cite Attribute
+The purpose of the cite attribute is to document where the quote can be found on the Internet. The cite attribute’s value must be in the form of a URL. Interestingly, browsers do not display the cite attribute’s value. 
+	Block Formatting
+
+For a blockquote element with enclosed text that’s greater than one line, you should use block
+formatting. Block formatting is a coding-style convention where the start and end tags go on their own lines and the enclosed text is indented.
+	

@@ -1,0 +1,4 @@
+2.8 Whitespace Collapsing
+Whitespace refers to characters that are invisible when displayed on the browser window.
+The most common whitespace characters are the blank, newline, and tab characters.
+The web developer generates those characteristics by pressing the spacebar, enter, and tab keys, respectively. Normally, browsers collapse whitespace. In other words, if your HTML code contains consecutive blank spaces, newlines, or tabs, the browser will display the web page with only one whitespace character (usually a blank space).
