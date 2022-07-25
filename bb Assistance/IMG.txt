@@ -1,0 +1,55 @@
+# Image files
+
+---
+
+## Images from Pixabay
+
+- [Pixabay](https://pixabay.com/)
+
+- [Pixabay License](https://pixabay.com/service/license/)
+
+### hero.jpg
+https://pixabay.com/photos/3196481
+
+### office.jpg
+https://pixabay.com/photos/4119674
+
+### manage.jpg
+https://pixabay.com/photos/2077020
+
+### reseearch.jpg
+https://pixabay.com/photos/3498582
+
+
+
+---
+
+## SNS Logos
+
+- For more details, please refer to the following.
+
+### logo-twitter.svg
+https://about.twitter.com/en/who-we-are/brand-toolkit
+
+### logo-facebook.svg
+https://www.facebook.com/brand/resources/facebookapp/guidelines
+
+### logo-instagram.svg
+https://en.instagram-brand.com/assets/icons
+
+
+---
+
+## Other images
+
+- Followings are images created by EBISUCOM.
+- Their license is the same as one for the non-images in README.txt.
+
+
+### bb.svg
+
+### bb-white.svg
+
+### bb.png
+
+### hero.svg
